@@ -1,0 +1,118 @@
+
+body{
+    background-color: #1F2937;
+}
+.main-grid{
+    display:block;
+    
+}
+header{
+    display:flex;
+    flex-direction: column;
+    height:400px;
+    width: auto;
+}
+.Home{
+    display: flex;
+    justify-content: row;
+    align-self:center;
+    margin-top: -50px;
+    gap:50px;
+}
+.image{
+    align-self:flex-end;
+    margin-top: -200px;
+    margin-left: -70px;
+}
+.web{
+    margin-left: 150px;
+    margin-top: 80px;
+}
+
+
+h1{
+    font-size: 48px extra-bold;
+    color:#F9FAF8;
+}
+p{
+    color:#F9FAF8;
+}
+
+.main{
+    background-color:gray;
+    height:50%
+}
+
+
+.main{
+    background-color: #F9FAF8;
+    height:500px;
+}
+.m-card{
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    margin-top:2%;
+    gap:50px;
+}
+.card{
+    height:200px;
+    width:200px;
+    border: 2px solid blueviolet;
+    
+}
+.icon{
+    height: 200px;
+    width:200px;
+    border: 2px solid blueviolet;
+    margin-left: 70px;
+}
+h3{
+    color: darkgreen;
+}
+
+.Cad{
+    height:200px;
+    width:200px;
+    border: 2px solid blueviolet;
+}
+.mule{
+    height:200px;
+    width:200px;
+    border: 2px solid blueviolet
+}
+.footer{
+    background-color: antiquewhite;
+    height:350px
+}
+.qote{
+
+    background-color: gray;
+    height:150px;
+    width:auto;
+    text-align: center;
+    margin-left:100px;
+    margin-right: 100px;
+    color:maroon;
+}
+i{
+    font-size: medium;
+}
+.call{
+    flex-direction:row;
+    background-color: #3882F6;
+    height:100px;
+    width: auto;
+}
+button{
+  color:#F9FAF8;
+  background-color: #3882F6;
+  border:2px solid red;
+  height: 20px;
+  width:70px;
+  margin-left:400px;
+  
+}
+center{
+    height: 50px;
+}
